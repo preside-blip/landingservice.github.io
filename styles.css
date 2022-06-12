@@ -1,0 +1,71 @@
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    color: #141414;
+    background-color: #191919;
+    overflow-x: hidden;
+}
+
+
+/*----------------sidebar-------------------*/
+
+h1 {
+    color: #19cee6;
+}
+
+.Header {
+    padding-bottom: 2%;
+    font-size: large;
+}
+
+.btn-outline-info {
+    border-radius: 10rem;
+    font-size: large;
+}
+
+.Destacado {
+    color: #faf8ec;
+}
+
+#slogan {
+    display: flex;
+    align-items: center;
+}
+
+.Caracteristicas {
+    background-color: #faf8ec;
+}
+
+.feature {
+    text-align: center;
+}
+
+.feature h2 {
+    color: #19cee6;
+}
+
+#sape {
+    padding-bottom: 8%;
+}
+
+.Tarjeta {
+    color: #141414;
+    background-color: #19cee6;
+}
+
+.btn-outline-primary {
+    border-radius: 10rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-color: #faf8ec;
+    color: #faf8ec;
+    font-size: large;
+}
+
+.btn-outline-primary:hover {
+    color: #141414;
+    background-color: #faf8ec;
+    border-color: #faf8ec;
+}
+
+.svg_btn {
+    fill: #faf8ec;
+}
